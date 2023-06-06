@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'iconfont'; /* Project id 4097450 */
+  src: url('../font/iconfont.woff2?t=1685522329053') format('woff2'),
+    url('../font/iconfont.woff?t=1685522329053') format('woff'),
+    url('../font/iconfont.ttf?t=1685522329053') format('truetype');
+}
+
+.iconfont {
+  font-family: 'iconfont' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-a-9-yunfeirongzi:before {
+  content: '\e638';
+}
